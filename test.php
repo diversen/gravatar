@@ -2,7 +2,7 @@
 
 use diversen\gravatar;
 
-// You will not need this is autoloading is set up normally
+// You will not need 'include_once' if the autoloading is set up normally
 // It is just for testing
 
 include_once "../../autoload.php";
