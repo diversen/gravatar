@@ -10,8 +10,6 @@ Usage:
 
 The class follows the same pattern as on: https://en.gravatar.com/site/implement/images/php/
 
-~~~php
+See 
 
-~~~
-
-
+[test.php](test.php)
